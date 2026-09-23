@@ -13,6 +13,7 @@
           "com.shayk": { "expiry": "2026-12-30", "status": true},
         "com.lund": { "expiry": "2026-12-30", "status": true},
         "com.dark": { "expiry": "2026-12-30", "status": true},
+        "com.OverKillAdmin": { "expiry": "2026-12-30", "status": true},
         "com.darkk": { "expiry": "2026-12-30", "status": true},
         "com.bgmi": {"expiry": "2026-12-30", "status": true},
         "com.blocked.app": {"status": false}
