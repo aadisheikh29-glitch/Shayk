@@ -1,4 +1,4 @@
 {
-  "status": "on",
-  "message": "SDK Active"
+  "status": "off",
+  "message": "SDK Active Failed"
 }
