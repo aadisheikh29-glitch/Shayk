@@ -10,6 +10,7 @@
     ],
     "packages": {
         "com.pubgm": { "expiry": "2026-12-30", "status": true},
+        "com.pubg": { "expiry": "2026-12-30", "status": true},
           "com.shayk": { "expiry": "2026-12-30", "status": true},
         "com.lund": { "expiry": "2026-12-30", "status": true},
         "com.dark": { "expiry": "2026-12-30", "status": true},
