@@ -11,7 +11,7 @@
     "packages": {
         
         "com.kenox": { "expiry": "2026-12-30", "status": true},
-        "com.shayk": { "expiry": "2026-12-30", "status": true},
+        "com.bgmi": { "expiry": "2026-12-30", "status": true},
           
         "com.blocked.app": {"status": false}
     }
