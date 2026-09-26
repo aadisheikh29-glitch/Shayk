@@ -12,6 +12,7 @@
         
         "com.kenox": { "expiry": "2026-12-30", "status": true},
         "com.bgmi": { "expiry": "2026-12-30", "status": true},
+        "com.java.jn": { "expiry": "2026-10-10", "status": true},
           
         "com.blocked.app": {"status": false}
     }
